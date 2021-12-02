@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@zilliqa-js/core": "^3.3.3",
+    "@zilliqa-js/crypto": "^3.3.3",
+    "bn.js": "^5.2.0",
+    "elliptic": "^6.5.4",
+    "hash.js": "^1.1.7"
+  }
+}
